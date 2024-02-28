@@ -1,5 +1,5 @@
 def hello():
-	print("Ciao mondo!")
+	print("Hallo Welt!")
 
 
 def sum(a, b):
